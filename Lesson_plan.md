@@ -1,4 +1,4 @@
-## Sampling Distributions Lesson Plan (55 minute lesson)
+# Sampling Distributions Lesson Plan (55 minute lesson)
 
 ## Student orientated learning goals:
 *
@@ -15,13 +15,10 @@
 ## Lesson
 
 ### 1. Motivation (2.5 minutes). 
-	* basis for inferential statistics
-	* e.g., will be extremely useful when we want to determine if two (or more) samples
-		are derived from the same or different populations (mean weight loss after 4 weeks
-		on a low-carb diet versus those on a high-carb diet)
+* Basis for inferential statistics
+* Will be extremely useful when we want to determine if two (or more) samples are derived from the same or different populations (mean weight loss after 4 weeks on a low-carb diet versus those on a high-carb diet)
 
-### 2. Mean of the sampling distribution is equal to the mean of the population 
-(15 minutes)
+### 2. Mean of the sampling distribution is equal to the mean of the population (15 minutes)
 
 The concepts of population distribution, sample distribution, sampling distribution, 
 population mean, sample mean and central limit theorem will be introduced via an 
@@ -44,13 +41,12 @@ the population distribution and its mean. This will demonstrate graphically that
 of the sampling distribution is equal to (or at least very close to) the mean of the 
 population.
 
-### 3. Two other important principles about regarding the sampling distribution and the 
-population distribution (10 min)
+### 3. Two other important principles about regarding the sampling distribution and the population distribution (10 min)
 
 Using an [online simulation]() and a shared [Google spreadsheet]() we will explore the 
 effect of sample size on the sampling distribution. The goal will be to demonstrate that:
-	* When the sample size is sufficiently large, the shape of the sampling distribution is approximately normal irrespective of the shape of the population distribution.
-	* The standard deviation of the sampling distribution is equal to the standard deviation of the population distribution divided by the square root of the sample size (n).
+* When the sample size is sufficiently large, the shape of the sampling distribution is approximately normal irrespective of the shape of the population distribution.
+* The standard deviation of the sampling distribution is equal to the standard deviation of the population distribution divided by the square root of the sample size (n).
 
 Each student will be assigned an number from (ranging from 2 - 100). The student will 
 complete a sampling distribution simulation using the assigned numbers as the sample size
@@ -75,11 +71,11 @@ administer 3 short multiple choice questions to uncover any misconceptions that 
 come about during the last two exercises. If any are apparent, time will be taken to 
 correct and clarify. The following three questions will be used:
 
-	1.
+i.
 
-	2.
+ii.
 
-	3.
+iii.
 
 ### 5. Applications of the sampling distribution (5 min)
 
@@ -90,11 +86,12 @@ correct and clarify. The following three questions will be used:
 Students will work in groups of 3 to try to solve the problems below. The answers to the
 first will be taken up in class, and the answers to all are available online [here]().
 
-	1.
+i.
 
-	2.
+ii.
 
-	3.
-
+iii.
 
 ### 7. Wrap-up (2.5 min)
+
+

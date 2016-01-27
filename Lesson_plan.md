@@ -1,4 +1,4 @@
-# Sampling Distributions Lesson Plan (55 minute lesson)
+# Sampling Distributions Lesson Plan (55 minutes)
 by Tiffany Timbers </br>
 January 26, 2016 </br>
 

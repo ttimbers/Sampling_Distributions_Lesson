@@ -77,16 +77,16 @@ come about during the last two exercises. If any are apparent, time will be take
 correct and clarify. The following questions will be used (correct answers are highlighted 
 in **bold**):
 
-i. Which of the following are not true:
-a) as you increase the sample size, the standard deviation of the sampling distribution will decrease
-**b) as you increase the sample size, the mean of the sampling distribution approaches the mean of the population distribution**
-c) the mean of the sampling distribution is equal to the mean of the population distribution
-d) as you increase the sample size, the sampling distribution becomes more normally distributed
+i. Which of the following are not true: </br>
+a) as you increase the sample size, the standard deviation of the sampling distribution will decrease </br>
+**b) as you increase the sample size, the mean of the sampling distribution approaches the mean of the population distribution** </br>
+c) the mean of the sampling distribution is equal to the mean of the population distribution </br>
+d) as you increase the sample size, the sampling distribution becomes more normally distributed </br>
 
-ii. Which answer(s) below are true about the sample distribution:
-**a) it closely resembles the population distribution**
-b) it becomes more normally distributed as you increase the sample size
-c) as you increase the sample size, the standard deviation of the sample distribution will decrease
+ii. Which answer(s) below are true about the sample distribution: </br>
+**a) it closely resembles the population distribution** </br>
+b) it becomes more normally distributed as you increase the sample size </br>
+c) as you increase the sample size, the standard deviation of the sample distribution will decrease </br>
 
 ### 5. Applications of the sampling distribution (5 min)
 

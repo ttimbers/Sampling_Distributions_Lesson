@@ -44,7 +44,7 @@ the population distribution and its mean. This will demonstrate graphically that
 of the sampling distribution is equal to (or at least very close to) the mean of the 
 population.
 
-### 3. Two other important principles about regarding the sampling distribution and the population distribution (10 min)
+### 3. Two other important principles regarding the sampling distribution and the population distribution (10 min)
 
 Using an [online simulation](http://onlinestatbook.com/stat_sim/sampling_dist/) and a 
 shared [Google spreadsheet](https://docs.google.com/spreadsheets/d/1MuDUEfBvjma_jqw3I4IhEP4nXnJAe0uAIPuKxBQeELs/edit?usp=sharing) 
@@ -54,15 +54,16 @@ to demonstrate that:
 * The standard deviation of the sampling distribution is equal to the standard deviation of the population distribution divided by the square root of the sample size (n).
 
 Each student will be assigned a sample size number. The student will complete a sampling 
-distribution simulation using the assigned numbers as the sample size and the following 
-additional parameters: Skewed and Mean). 
+distribution simulation using the assigned numbers as the sample size, 10,000 replications
+and the following additional parameters selected from the dropdown menu: Skewed and Mean. 
 
 After completing the simulation, the students will copy and paste the values they obtained 
 for the sampling distribution's standard deviation, skew and kurtosis into the correct 
 cell in the shared Google spreadsheet. The Google spreadsheet has previously been set-up 
 such that when students paste the values from their simulations into the appropriate cells 
 the spreadsheet adds those values to plots for sample size versus standard deviation,
-sample size versus skew, and sample size versus kurtosis. 
+sample size versus skew, and sample size versus kurtosis. At this point the terms skew and
+kurtosis will be reintroduced (they will have learned these in a previous class).
 
 Once the spreadsheet has been populated the class will discuss their observations. The 
 instructor will guide and focus the discussion around the two key principles: increasing 
@@ -102,7 +103,8 @@ out of water?
 
 Students will work in groups of 3 to try to solve the problems below. The answers to the
 first will be taken up in class, and the answers to all will be made available online 
-after class.
+after class. *If lesson sections 1-5 take longer than anticipated, this activity will be 
+assigned as homework instead of being done in class.*
 
 i. The speeds of vehicles in a school zone have a mean of 36 km/h with a standard 
 deviation of 6 km/h, despite the speed limit being 30 km/h. What is the probability that 

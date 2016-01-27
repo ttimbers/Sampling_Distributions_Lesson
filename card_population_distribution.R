@@ -16,7 +16,13 @@ for (i in 1:dim(deck_dist)[2]){
   count <-  count + deck_dist[i]
 }
 
+# calculate mean of card values in deck
+deck_mean <- round(mean(popn_deck$cards), digits = 1)
+
 # plot histogram of population
 pdf("card_population_distribution.pdf", width = 6, height = 4)
-hist(popn_deck$cards, breaks=seq(0.5,10.5), main = "Card deck population distribution", xlab = "card", )
+hist(popn_deck$cards, breaks=seq(0.5,10.5), main = "Card deck population distribution", xlab = "card")
+abline(v = deck_mean, col = "blue", lwd = 2)
+text(6.75, 11.5, paste("mean = ", deck_mean, sep=""))
 dev.off()
+

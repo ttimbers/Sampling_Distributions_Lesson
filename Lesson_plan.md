@@ -18,8 +18,8 @@ January 26, 2016 </br>
 ## Lesson
 
 ### 1. Motivation (2.5 minutes). 
-* Basis for inferential statistics
-* Will be extremely useful when we want to determine if two (or more) samples are derived from the same or different populations (mean weight loss after 4 weeks on a low-carb diet versus those on a high-carb diet)
+* Sampling distributions are the basis for inferential statistics
+* A solid understanding of sampling distributions will be extremely useful when we want to determine if two (or more) samples are derived from the same or different populations (weight lost after 4 weeks on a low-carb diet versus those on a high-carb diet)
 
 ### 2. Mean of the sampling distribution is equal to the mean of the population (15 minutes)
 
@@ -75,7 +75,7 @@ A free online quizzing tool, [Socrative](http://www.socrative.com/) will be used
 administer short multiple choice questions to uncover any misconceptions that may have 
 come about during the last two exercises. If any are apparent, time will be taken to 
 correct and clarify. The following questions will be used (correct answers are highlighted 
-in bold):
+in **bold**):
 
 i. Which of the following are not true:
 a) as you increase the sample size, the standard deviation of the sampling distribution will decrease
@@ -93,9 +93,10 @@ c) as you increase the sample size, the standard deviation of the sample distrib
 How to use what we have just learned about the sampling distribution to solve an applied
 problem (outlined below) will be demonstrated to the class. 
 
-The average human is recommended to drink 2.6 L of water each day (with a standard 
-deviation of 0.8 L). You are planning a day of outdoor activities for 40 people and you 
-plan to bring 112 L of water. What is the probability that you will run out of water?
+You are planning a day of sailing on the ocean on a very large boat for 40 people and you 
+plan to bring 112 L of water. The average human is recommended to drink 2.6 L of water 
+each day (with a standard deviation of 0.8 L). What is the probability that you will run 
+out of water?
 
 ### 6. Group problem solving (15 min)
 
@@ -103,23 +104,21 @@ Students will work in groups of 3 to try to solve the problems below. The answer
 first will be taken up in class, and the answers to all will be made available online 
 after class.
 
-i. In a highway construction zone with a posted speed limit of 40 miles per hour, the 
-speeds of all vehicles are normally distributed with a mean of 46 mph and a standard 
-deviation of 3 mph. Find the probability that the mean speed of a random sample of 20 cars 
-traveling through this construction zone is less than 45.5 mph.
+i. The speeds of vehicles in a school zone have a mean of 36 km/h with a standard 
+deviation of 6 km/h, despite the speed limit being 30 km/h. What is the probability that 
+the mean speed of the next 20 cars will be less than the speed limit?
 
-ii. The amounts of electric bills for all households in a city have a skewed probability 
-distribution with a mean of $80 and a standard deviation of $25. Find the probability that 
-the mean amount of electric bills for a random sample of 75 households selected from this 
-city will be more than the population mean by at least $5.
+ii. The mean gas bill for all detached homes in Narniaville is $65 a month with a standard 
+deviation of $15. What is the probability that a random sample of 50 households in 
+Narniaville will be more than the population mean by at least $5.
 
-iii. A machine at Katz Steel Corporation makes 3-inch-long nails. The probability 
-distribution of the lengths of these nails is normal with a mean of 3 inches and a 
-standard deviation of .1 inch. The quality control inspector takes a sample of 25 nails 
-once a week and calculates the mean length of these nails. If the mean of this sample is 
-either less than 2.95 inches or greater than 3.05 inches, the inspector concludes that the 
-machine needs an adjustment. What is the probability that based on a sample of 25 nails 
-the inspector will conclude that the machine needs an adjustment?
+iii. You've been hired as a data scientist at a Steel Mill. One of the products they 
+produce is Rebar with a mean length of 3 m and a standard deviation of 0.01 m. During the
+monthly quality control process an inspector measures the length of 10 randomly sampled 
+pieces of rebar to determine if the machine that cuts the rebar needs to be recalibrated.
+The inspector makes this call if the mean of the sampled rebar is less than 2.995 m or 
+greater than 3.05. The next inspection is tomorrow, what is the probability that it will
+be decided that the cutting machine needs to be recalibrated?
 
 ### 7. Wrap-up (2.5 min)
 
@@ -130,4 +129,4 @@ taken of the concept map and posted to the course website.
 
 
 
-*This instructional material (created by Tiffany Timbers) is made available under the Creative Commons Attribution CC 0 1.0 license. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.*
+*This instructional material (created by Tiffany Timbers) is made available under the Creative Commons CC0 1.0 Universal license. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.*

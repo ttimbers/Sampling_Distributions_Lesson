@@ -1,6 +1,6 @@
-# Sampling Distributions Lesson Plan 
-by Tiffany Timbers
-(estimated 55 minute lesson)
+# Sampling Distributions Lesson Plan (estimated 55 minute lesson)
+by Tiffany Timbers </br>
+January 26, 2016 </br>
 
 ## After this lesson students will be able to:
 * Define a population and sampling distribution
@@ -111,7 +111,7 @@ traveling through this construction zone is less than 45.5 mph.
 ii. The amounts of electric bills for all households in a city have a skewed probability 
 distribution with a mean of $80 and a standard deviation of $25. Find the probability that 
 the mean amount of electric bills for a random sample of 75 households selected from this 
-city will be more than the population mean by at least $5
+city will be more than the population mean by at least $5.
 
 iii. A machine at Katz Steel Corporation makes 3-inch-long nails. The probability 
 distribution of the lengths of these nails is normal with a mean of 3 inches and a 
@@ -126,3 +126,8 @@ the inspector will conclude that the machine needs an adjustment?
 Draw a concept map on the whiteboard of information/ideas/lessons learned. The concept map
 is to be student driven, but can be guided by the tutor if necessary. A photo will be 
 taken of the concept map and posted to the course website.
+
+
+
+
+*This instructional material (created by Tiffany Timbers) is made available under the Creative Commons Attribution CC 0 1.0 license. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.*

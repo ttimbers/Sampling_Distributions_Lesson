@@ -6,7 +6,7 @@ January 26, 2016 </br>
 * Define a population and sampling distribution
 * Describe the Central limit theorem with regards to the relationship between the population and sampling distributions
 * Explain how sample size effects a sampling distribution's standard deviation and shape
-* Predict the probability of of observing values less than, or greater than a cutoff, given a population mean and standard deviation, as well as a sample size.
+* Predict the probability of observing values less than, or greater than a cutoff, given a population mean and standard deviation, as well as a sample size.
 
 ## Required materials
 

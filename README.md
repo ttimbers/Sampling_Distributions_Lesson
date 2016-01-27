@@ -8,4 +8,4 @@ Foundation Program, and are taking introductory statistics to use in their conce
 As such, they have a motivation to learn the subject, but some have no background in the
 subject of statistics. 
 
-* The instructional material in this repository (created by Tiffany Timbers) is made available under the Creative Commons CC0 1.0 Universal license. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.*
+*The instructional material in this repository (created by Tiffany Timbers) is made available under the Creative Commons CC0 1.0 Universal license. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.*

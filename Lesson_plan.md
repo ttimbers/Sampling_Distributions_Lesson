@@ -6,7 +6,7 @@ January 26, 2016 </br>
 * Define a population and sampling distribution
 * Describe the Central limit theorem with regards to the relationship between the population and sampling distributions
 * Explain how sample size effects a sampling distribution's standard deviation and shape
-* Predict the probability of observing values less than, or greater than a cutoff, given a population mean and standard deviation, as well as a sample size.
+* Given a population mean and standard deviation, as well as a sample size, predict the probability of observing values less than, or greater than a given cutoff value.
 
 ## Required materials
 
@@ -19,7 +19,7 @@ January 26, 2016 </br>
 
 ### 1. Motivation (2.5 minutes). 
 * Sampling distributions are the basis for inferential statistics
-* A solid understanding of sampling distributions will be extremely useful when we want to determine if two (or more) samples are derived from the same or different populations 
+* For example, a solid understanding of sampling distributions will be extremely useful when we want to determine if two (or more) samples are derived from the same or different populations 
 
 ### 2. Mean of the sampling distribution is equal to the mean of the population (15 minutes)
 
@@ -47,14 +47,14 @@ to demonstrate that:
 * The standard deviation of the sampling distribution is equal to the standard deviation of the population distribution divided by the square root of the sample size (n).
 
 Each student will be assigned a sample size number. The student will complete a sampling 
-distribution simulation using the assigned numbers as the sample size, 10,000 replications 
-and the following additional parameters selected from the dropdown menu: Skewed and Mean. 
+distribution simulation using the assigned numbers as the sample size and select the 
+following additional parameters: Skewed, Mean and 10000 replications.  
 After completing the simulation, the students will copy and paste the values they obtained 
 for the sampling distribution's standard deviation, skew and kurtosis into the correct 
 cell in the shared Google spreadsheet. At this point the terms skew and kurtosis will be 
 reintroduced (they will have learned these in a previous class). The Google spreadsheet 
 has previously been set-up such that when students paste the values from their simulations 
-into the appropriate cells the spreadsheet adds those values to plots for sample size 
+into the appropriate cells, the spreadsheet adds those values to scatter plots for sample size 
 versus standard deviation, sample size versus skew, and sample size versus kurtosis. Once 
 the spreadsheet has been populated the class will discuss their observations. The 
 tutor will guide and focus the discussion around how increasing the sample size 
